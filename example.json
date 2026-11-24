@@ -1,0 +1,6 @@
+{
+  "name": "elasticsearch-vscode",
+  "engine": "elasticsearch",
+  "slug": "elasticsearch",
+  "kind": "starter"
+}
